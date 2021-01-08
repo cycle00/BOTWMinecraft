@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BOTWCycle:jar">
+    <output-path>$PROJECT_DIR$/../../Minecraft Modded Server/plugins</output-path>
+    <root id="archive" name="BOTWCycle.jar">
+      <element id="module-output" name="BOTWCycle" />
+    </root>
+  </artifact>
+</component>

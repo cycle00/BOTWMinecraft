@@ -1,0 +1,8 @@
+name: BOTW
+author: Cycle00
+main: cycle00.botw.Plugin
+version: 0.0.1
+api-version: 1.16
+
+commands:
+  test:
